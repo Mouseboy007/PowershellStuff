@@ -12,7 +12,7 @@ Do {
     Clear
     $Hell = "quit"
 
-    $LowerCasePhrase = Read-Host "Enter a phrase in lower case"
+    $LowerCasePhrase = Read-Host "Enter a phrase to Spongebobify"
     
     $SpongeLetters = $LowerCasePhrase -Split ""
     $SpongePhrase = New-Object System.Collections.Arraylist
