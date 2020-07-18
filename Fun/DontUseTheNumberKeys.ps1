@@ -1,6 +1,6 @@
 ﻿#############################################
 #                                           #
-#        DontUseTheNumberKeys.Ps1           #
+#        DontUseTheNumberKeys.PsONE         #
 #      Just to demonstrate you can get      #
 #        numbers without using the          #
 #       number keys or number keypad        #
