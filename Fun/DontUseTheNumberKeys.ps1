@@ -4,7 +4,9 @@
 #      Just to demonstrate you can get      #
 #        numbers without using the          #
 #       number keys or number keypad        #
-#          Andy Pyne 2020.07.18             #
+#                                           #
+#               Andy Pyne                   #
+#       Eighteenth of July, TwentyTwenty    #
 #                                           #
 #############################################
 
