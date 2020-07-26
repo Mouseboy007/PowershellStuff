@@ -26,6 +26,6 @@ ForEach ($MusicFile in $MusicFiles)
 { 
     $Folder = ((Get-Item -LiteralPath $MusicFile.FullName).Directory).FullName
     $File = "$($MusicFile.Name)$(".png")"
-    Spek $MusicFile.FullName "$($Folder)$('\')$($File)" 
+    Spek $MusicFile.FullName "$($Folder)$('\')$($File)" | Out-Null
     Write-Host "$($Folder)$($File)"
 }
